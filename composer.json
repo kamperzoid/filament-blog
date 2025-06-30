@@ -2,12 +2,11 @@
     "name": "kamperzoid/filament-blog",
     "description": "Filament Blog Builder",
     "keywords": [
-        "stephenjude",
         "laravel",
         "filament-blog",
         "blog"
     ],
-    "homepage": "https://github.com/stephenjude/filament-blog",
+    "homepage": "https://github.com/kamperzoid/filament-blogg",
     "license": "MIT",
     "authors": [
         {
